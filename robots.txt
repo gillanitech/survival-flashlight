@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gillanitech.github.io/survival-flashlight/sitemap.xml
